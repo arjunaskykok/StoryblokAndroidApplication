@@ -1,6 +1,6 @@
 # Add Headless CMS to Android App
 
-This repository is the codebase of tutorial [Add a Headless CMS to Android in 5 Minutes](https://storyblok.com).
+This repository is the codebase of the tutorial [Add a Headless CMS to Android in 5 Minutes](https://storyblok.com).
 
 
 ## Prerequisites
